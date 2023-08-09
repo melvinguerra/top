@@ -1,1 +1,3 @@
 Hello world!
+
+Testing commit messages on VSCode
